@@ -1,3 +1,11 @@
+# Important
+
+This is a template for my README.md
+I will update this file once finished the project :D
+
+-Mitzi :D
+
+
 # Frontend Mentor - Recipe page solution
 
 This is a solution to the [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
