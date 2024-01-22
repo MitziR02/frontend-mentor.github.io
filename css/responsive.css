@@ -1,0 +1,25 @@
+@media screen and (min-width: 500px){
+   td{
+    padding: 0.8rem 0;
+   }
+}
+
+@media screen and (min-width: 1312px){
+  .banner-image{
+    border-radius: 16px;
+    width: 100%;
+    height: auto;
+    margin-top: 3rem;
+  }
+
+  header{
+    width: 85%;
+  }
+}
+
+@media screen and (min-width: 1352px){
+    li{
+        text-indent: 1rem;
+      }
+ }
+ 
